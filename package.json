@@ -1,14 +1,27 @@
 {
     "name": "codingwish-theme",
-    "displayName": "CodingWish-Theme",
-    "description": "CodingWish theme",
-    "version": "0.0.1",
+    "displayName": "CodingWish Dark",
+    "description": "The CodingWish dark theme.",
+    "publisher": "CodingWish",
+    "version": "1.0.0",
     "engines": {
         "vscode": "^1.64.0"
     },
     "categories": [
         "Themes"
     ],
+    "keywords": [
+        "Theme",
+        "Dark",
+        "Dark theme",
+        "CodingWish",
+        "codingwish dark",
+        "Blue"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/codingwish/codingwish-theme"
+    },
     "contributes": {
         "themes": [
             {
