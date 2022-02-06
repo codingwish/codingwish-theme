@@ -148,14 +148,14 @@
 		"terminal.ansiBrightBlue": "#79c0ff",
 		"terminal.ansiBrightCyan": "#56d4dd",
 		"terminal.ansiBrightGreen": "#56d364",
-		"terminal.ansiBrightMagenta": "#d2a8ff",
+		"terminal.ansiBrightMagenta": "#01CFFF",
 		"terminal.ansiBrightRed": "#ffa198",
 		"terminal.ansiBrightWhite": "#f0f6fc",
 		"terminal.ansiBrightYellow": "#e3b341",
 		"terminal.ansiCyan": "#39c5cf",
 		"terminal.ansiGreen": "#3fb950",
 		"terminal.ansiMagenta": "#bc8cff",
-		"terminal.ansiRed": "#ff7b72",
+		"terminal.ansiRed": "#569CD6",
 		"terminal.ansiWhite": "#b1bac4",
 		"terminal.ansiYellow": "#d29922",
 		"terminal.foreground": "#8b949e",
@@ -203,7 +203,7 @@
 				"meta.definition.variable"
 			],
 			"settings": {
-				"foreground": "#FFA657"
+				"foreground": "#C9D1D9"
 			}
 		},
 		{
@@ -223,7 +223,7 @@
 		{
 			"scope": "entity.name.function",
 			"settings": {
-				"foreground": "#D2A8FF"
+				"foreground": "#01CFFF"
 			}
 		},
 		{
@@ -238,7 +238,7 @@
 		{
 			"scope": "keyword",
 			"settings": {
-				"foreground": "#FF7B72"
+				"foreground": "#569CD6"
 			}
 		},
 		{
@@ -247,7 +247,7 @@
 				"storage.type"
 			],
 			"settings": {
-				"foreground": "#FF7B72"
+				"foreground": "#569CD6"
 			}
 		},
 		{
@@ -267,7 +267,7 @@
 				"string punctuation.section.embedded source"
 			],
 			"settings": {
-				"foreground": "#A5D6FF"
+				"foreground": "#FFA657"
 			}
 		},
 		{
@@ -285,7 +285,7 @@
 		{
 			"scope": "variable",
 			"settings": {
-				"foreground": "#FFA657"
+				"foreground": "#C9D1D9"
 			}
 		},
 		{
@@ -326,7 +326,7 @@
 			"scope": "carriage-return",
 			"settings": {
 				"foreground": "#0D1117",
-				"background": "#FF7B72",
+				"background": "#569CD6",
 				"fontStyle": "italic underline"
 			}
 		},
@@ -396,7 +396,7 @@
 		{
 			"scope": "punctuation.definition.list.begin.markdown",
 			"settings": {
-				"foreground": "#FFA657"
+				"foreground": "#01CFFF"
 			}
 		},
 		{
@@ -463,7 +463,7 @@
 				"punctuation.definition.changed"
 			],
 			"settings": {
-				"foreground": "#FFA657",
+				"foreground": "#01CFFF",
 				"background": "#5A1E02"
 			}
 		},
@@ -480,7 +480,7 @@
 		{
 			"scope": "meta.diff.range",
 			"settings": {
-				"foreground": "#D2A8FF",
+				"foreground": "#01CFFF",
 				"fontStyle": "bold"
 			}
 		},
